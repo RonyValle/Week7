@@ -1,6 +1,6 @@
 #!/bin/bash
 #Rony Valle
-#chapter 9 Script
+#chapter 6 Script
 
 #The following shell script is for week7 chapter9 "Understanding your network and cofiguration"
 

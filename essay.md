@@ -1,4 +1,4 @@
-An Industry Guide to Becoming a Software Engineer by Bill Langenberg. 
+# An Industry Guide to Becoming a Software Engineer by Bill Langenberg. 
 
 This is a guide were Bill Langenberg talks about very key points needed to succeed 
 in the Sofware Engineering filed. The first category he touches on in his paper is 
